@@ -1,7 +1,7 @@
-# IsSudoku
-checking for Sudoku on a completed game
+# nnfs
+neural networs from scratch
 
-making this project using git on the terminal to get used to git and github integration
-and I'm learning python at the same time
+followinng this: https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=2 tutorial
+i'm posting my work followign the tutorial on here and any other practice challenge
 
 ps I'm a noob
