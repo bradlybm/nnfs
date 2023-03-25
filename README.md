@@ -4,6 +4,10 @@ neural networks from scratch
 followinng this: https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=2 tutorial
 i'm posting my work following the tutorial on here and any other practice challenge
 
-ps I just like to learn how things work
+I am keeping a record of what I'm learning and writing notes within the programs for future reference.
+I am also doing this as a way to get used to git and github. 
 
 p1.py -> using raw python to simulate a neuron
+
+p2.py -> formating an output layer that takes input form 4 neurons 
+
