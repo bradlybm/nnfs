@@ -21,3 +21,4 @@ print(layer_outputs)
 
 # Python's zip() function creates an iterator that will aggregate (put together) elements from two or more iterables.
     # An iterable is any Python object capable of returning its members one at a time
+# *Note: weighted sum is all the inputs multiplied by the wights then added all up including the biases
