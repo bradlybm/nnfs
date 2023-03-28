@@ -39,7 +39,7 @@
 # output = np.dot(weights, inputs) + bias
 # print(output)
 
-# np.dot is multiplying the elements in the vectors using the index as 
+# np.dot is multiplying the elements in the vectors using the index
 # ex: = 0.2 * 1.0 + 0.8 * 2.0 + -0.5 * 3.0 + 1.0 * 2.5
 #     = 2.8
 #     = 2.8 + bias = 4.8
@@ -59,3 +59,9 @@ bias = [2, 3, 0.5]
 output = np.dot(weights, inputs) + bias
 print(output)
 
+# visualization of np.dot above
+
+# np.dot(weight, inputs) = [np.dot(weights[0], inputs), np.dot(weights[1], inputs),np.dot(weights[2], inputs)]
+# = same as in line 43 (not includeing bias) multipling the input with all the weights, first weights in row index 0 with input then row index 1 with input then row at index 2 with input
+# previous line will return a vector
+# then we add the vector which will be the 3 dot products [2.8, -1.79, 1.885] to the biases [2, 3, 0.5] for a final result of [4.8, 1.21, 2.385]
