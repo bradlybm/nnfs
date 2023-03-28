@@ -5,7 +5,7 @@ followinng this: https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcj
 i'm posting my work following the tutorial on here and any other practice challenge
 
 I am keeping a record of what I'm learning and writing notes within the programs for future reference.
-I am also doing this as a way to get used to git and github. 
+I am also doing this as a way to get used to git, github and python. 
 
 p1.py -> using raw python to simulate a neuron
 
