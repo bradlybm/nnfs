@@ -12,3 +12,6 @@ p1.py -> 1st video, using raw python to simulate a neuron
 p2.py -> 2nd video, formating an output layer that takes input form 4 neurons 
 
 p3.py -> 3rd video, using numpy (dot product) to simplify the code
+
+4/23/23 -> taking this https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ 
+course to get more comfrotable with python before continuing this side project.
