@@ -3,7 +3,7 @@
 # 4 neurons are going to be feeding into it
 
 # becasue I am modeling the output layer that will take 4 inputs form 4 different neurons
-# we need 3 unique weight sets and 3 unique weight sets becasue we are modeling the 3 neuron output layer
+# we need 3 unique weight sets and 3 unique bias sets becasue we are modeling the 3 neuron output layer
 
 inputs = [1, 2, 3, 2.5] 
 
