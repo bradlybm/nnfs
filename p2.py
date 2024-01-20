@@ -1,5 +1,5 @@
 # video 2 -> modeling an output layer (3 neurons with 4 inputs)
-# coding 1 neuron sommewhere in a neural network
+# coding 1 neuron somewhere in a neural network
 # 4 neurons are going to be feeding into it
 
 # becasue I am modeling the output layer that will take 4 inputs form 4 different neurons
